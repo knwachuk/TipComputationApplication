@@ -1,0 +1,80 @@
+TTipComputationApplication
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/TipComputationApplication/Base.lproj/LaunchScreen.xib
+c00000000568578220000000000000E8F
+t1451587618
+s3727
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/TipComputationApplication/Base.lproj/Main.storyboard
+c00000000568582300000000000002514
+t1451590192
+s9492
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/TipComputationApplication/Images.xcassets
+c000000005685853E0000000000000066
+t1451590974
+s102
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphoneos/TipComputationApplication.app
+t2
+s0
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphoneos/TipComputationApplication.app/Base.lproj/LaunchScreen.nib
+t2
+s0
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphoneos/TipComputationApplication.app/Base.lproj/Main.storyboard
+t2
+s0
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphoneos/TipComputationApplication.app/Images.xcassets
+t2
+s0
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphoneos/TipComputationApplication.app/Info.plist
+t2
+s0
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphoneos/TipComputationApplication.app/PkgInfo
+t2
+s0
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphoneos/TipComputationApplication.app/ResourceRules.plist
+t2
+s0
+
+NTipComputationApplication/Info.plist
+c000000005685782200000000000004C1
+t1451587618
+s1217
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies473623435#473623435#0(550"[WARN]warning: no rule to process file '$(PROJECT_DIR)/TipComputationApplication/ViewController.swift' of type text for architecture armv6[WARN]warning: no rule to process file '$(PROJECT_DIR)/TipComputationApplication/SetViewController.swift' of type text for architecture armv6[WARN]warning: no rule to process file '$(PROJECT_DIR)/TipComputationApplication/AppDelegate.swift' of type text for architecture armv6[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain4(22@132"warning: no rule to process file '$(PROJECT_DIR)/TipComputationApplication/ViewController.swift' of type text for architecture armv6473623435#18446744073709551615#0#0(1@0"0(22@135"warning: no rule to process file '$(PROJECT_DIR)/TipComputationApplication/SetViewController.swift' of type text for architecture armv6473623435#18446744073709551615#0#0(1@0"0(22@129"warning: no rule to process file '$(PROJECT_DIR)/TipComputationApplication/AppDelegate.swift' of type text for architecture armv6473623435#18446744073709551615#0#0(1@0"0(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain473623435#18446744073709551615#0#0(1@0"0(0#1#0"8598467872#0"0#
+
+CCompileXIB /Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/TipComputationApplication/Base.lproj/LaunchScreen.xib
+r0
+
+CCpResource build/Debug-iphoneos/TipComputationApplication.app/Base.lproj/Main.storyboard TipComputationApplication/Base.lproj/Main.storyboard
+r0
+
+CCpResource build/Debug-iphoneos/TipComputationApplication.app/Images.xcassets TipComputationApplication/Images.xcassets
+r0
+
+CCpResource build/Debug-iphoneos/TipComputationApplication.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CProcessInfoPlistFile /Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphoneos/TipComputationApplication.app/Info.plist TipComputationApplication/Info.plist
+r0
+
+CTouch /Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphoneos/TipComputationApplication.app
+r0
+

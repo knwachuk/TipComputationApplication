@@ -1,0 +1,63 @@
+TTipComputationApplication
+v7
+r1
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/TipComputationApplication/Base.lproj/LaunchScreen.xib
+c00000000568578220000000000000E8F
+t1451587618
+s3727
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/TipComputationApplication/Base.lproj/Main.storyboard
+c00000000568582300000000000002514
+t1451590192
+s9492
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/TipComputationApplication/Images.xcassets
+c000000005685853E0000000000000066
+t1451590974
+s102
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphonesimulator/TipComputationApplication.app
+t2
+s0
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphonesimulator/TipComputationApplication.app/Base.lproj/LaunchScreen.nib
+t2
+s0
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphonesimulator/TipComputationApplication.app/Base.lproj/Main.storyboard
+t2
+s0
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphonesimulator/TipComputationApplication.app/Images.xcassets
+t2
+s0
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphonesimulator/TipComputationApplication.app/Info.plist
+t2
+s0
+
+N/Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphonesimulator/TipComputationApplication.app/PkgInfo
+t2
+s0
+
+NTipComputationApplication/Info.plist
+c000000005685782200000000000004C1
+t1451587618
+s1217
+
+CCompileXIB /Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/TipComputationApplication/Base.lproj/LaunchScreen.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/TipComputationApplication.app/Base.lproj/Main.storyboard TipComputationApplication/Base.lproj/Main.storyboard
+r0
+
+CCpResource build/Debug-iphonesimulator/TipComputationApplication.app/Images.xcassets TipComputationApplication/Images.xcassets
+r0
+
+CProcessInfoPlistFile /Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphonesimulator/TipComputationApplication.app/Info.plist TipComputationApplication/Info.plist
+r0
+
+CTouch /Users/kelechi/Documents/File_Cabinet/Git/TipComputationApplication/build/Debug-iphonesimulator/TipComputationApplication.app
+r0
+
